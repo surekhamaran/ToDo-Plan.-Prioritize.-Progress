@@ -1,4 +1,4 @@
-# 📝 Todo App - Mobile App Design (Community Edition)
+# 📝 Todo App - Mobile App Design 
 
 A beautifully designed **Todo Mobile App** that helps users stay organized and manage daily tasks effectively. This project provides a sleek and minimal UI concept ideal for beginner mobile app developers or design showcase.
 
